@@ -6,12 +6,6 @@
 
 *A lightweight, fast, and developer-focused MCPE server software inspired by Nukkit.*
 
-<br>
-
-<img src="logo.png" width="160">
-
-<br>
-
 ![Java](https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge)
 ![MCPE](https://img.shields.io/badge/MCPE-Supported-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
