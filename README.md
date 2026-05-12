@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sevenzerodev/Axeon/main/.github/assets/logo.png" width="160">
+<img src="https://raw.githubusercontent.com/sevenzerodev/Axeon/main/logo.png" width="160">
 
 <br>
 
