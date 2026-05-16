@@ -28,7 +28,7 @@ Built with inspiration from Nukkit and PocketMine-MP, Axeon provides developers 
 <tr>
 <td valign="top" width="50%">
 
-### Performance
+# Performance
 
 - Optimized networking
 - Lightweight architecture
@@ -40,7 +40,7 @@ Built with inspiration from Nukkit and PocketMine-MP, Axeon provides developers 
 
 <td valign="top" width="50%">
 
-### Developer API
+# Developer API
 
 - Plugin system
 - Event-driven architecture
@@ -54,7 +54,7 @@ Built with inspiration from Nukkit and PocketMine-MP, Axeon provides developers 
 <tr>
 <td valign="top" width="50%">
 
-### Multiplayer
+# Multiplayer
 
 - MCPE networking
 - Entity systems
@@ -66,7 +66,7 @@ Built with inspiration from Nukkit and PocketMine-MP, Axeon provides developers 
 
 <td valign="top" width="50%">
 
-### Modern Core
+# Modern Core
 
 - Java-based software
 - Nukkit-inspired design
@@ -106,14 +106,6 @@ target/
 
 ---
 
-### Start Server
-
-```bash
-java -jar Axeon.jar
-```
-
----
-
 ## 🔌 Plugin Development
 
 Axeon provides a flexible API for plugin development.
@@ -121,7 +113,7 @@ Axeon provides a flexible API for plugin development.
 ### Example Structure
 
 ```text
-MyPlugin/
+YourPlugin/
 ├── src/
 ├── plugin.yml
 └── pom.xml
