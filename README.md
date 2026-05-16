@@ -22,65 +22,19 @@ Built with inspiration from Nukkit and PocketMine-MP, Axeon provides developers 
 
 ---
 
-## 🚀 Features
+## 🎯 Goals
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### Performance
-
-- Optimized networking
-- Lightweight architecture
-- Fast packet handling
-- Efficient threading
-- Stable runtime
-
-</td>
-
-<td valign="top" width="50%">
-  
-#### Developer API
-
-- Plugin system
-- Event-driven architecture
-- Command framework
-- Scheduler tasks
-- Expandable APIs
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-#### Multiplayer
-
-- MCPE networking
-- Entity systems
-- World management
-- Session handling
-- Packet translation
-
-</td>
-
-<td valign="top" width="50%">
-
-#### Modern Core
-
-- Java-based software
-- Nukkit-inspired design
-- Clean structure
-- Scalable systems
-- Easy customization
-
-</td>
-</tr>
-</table>
+| Goal | Description |
+| :-- | :-- |
+| Performance | Deliver fast and optimized MCPE software |
+| Flexibility | Provide clean and expandable APIs |
+| Multiplayer | Improve networking and gameplay systems |
+| Development | Simplify plugin development |
+| Innovation | Push MCPE Java software further |
 
 ---
 
-## 📦 Installation
+## 📦 Packaging
 
 ### Requirements
 
@@ -121,19 +75,7 @@ YourPlugin/
 
 ---
 
-## 🎯 Goals
-
-| Goal | Description |
-| :-- | :-- |
-| Performance | Deliver fast and optimized MCPE software |
-| Flexibility | Provide clean and expandable APIs |
-| Multiplayer | Improve networking and gameplay systems |
-| Development | Simplify plugin development |
-| Innovation | Push MCPE Java software further |
-
----
-
-## 🛠 Development
+## 🛠 Contributions
 
 ```text
 1. Fork Repository
