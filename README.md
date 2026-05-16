@@ -92,15 +92,6 @@ Built with inspiration from Nukkit and PocketMine-MP, Axeon provides developers 
 
 ---
 
-### Clone Repository
-
-```bash
-git clone https://github.com/sevenzerodev/Axeon.git
-cd Axeon
-```
-
----
-
 ### Build Project
 
 ```bash
@@ -119,21 +110,6 @@ target/
 
 ```bash
 java -jar Axeon.jar
-```
-
----
-
-## 📂 Project Structure
-
-```text
-Axeon/
-├── src/
-├── api/
-├── plugins/
-├── resources/
-├── target/
-├── pom.xml
-└── README.md
 ```
 
 ---
